@@ -1,0 +1,19 @@
+.text {
+    font-family: Verdana, sans-serif;
+}
+.title {
+    background-color: royalblue;
+    color: white;
+    font-size: large;
+}
+
+.header {
+    background-color: red;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 200px;
+}
